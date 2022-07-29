@@ -1,9 +1,7 @@
 ## Olá, me chamo Maurício, seja bem vindo(a) ao meu perfil!🤝
 
-- 💻 Atualmente trabalho com Front-End
-- 👨🏾‍💻 Estágiario no Banco Safra
-- 👨🏾‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Faculdade SPTech
+- 💻 Analista de Sistemas | Desenvolvedor Front-End
+- 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Faculdade SPTech
 
 <div align="center">
   <a href="https://github.com/MauSantana">
