@@ -1,6 +1,6 @@
 ## Olá, me chamo Maurício, seja bem vindo(a) ao meu perfil!🤝
 
-- 💻 Analista de Sistemas | Desenvolvedor Front-End
+- 💻 Analista de Sustentação Pleno
 - 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Faculdade SPTech
 
 <div align="center">
