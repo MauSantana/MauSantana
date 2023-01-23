@@ -1,6 +1,6 @@
 ## Olá, me chamo Maurício, seja bem vindo(a) ao meu perfil!🤝
 
-- 💻 Analista de Sustentação Pleno
+- 💻 Analista de Sustentação Pleno | Banco Digi+
 - 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Faculdade SPTech
 
 <div align="center">
